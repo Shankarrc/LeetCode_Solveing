@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0877-stone-game) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3719-longest-balanced-subarray-i) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
