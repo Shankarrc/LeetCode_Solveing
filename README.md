@@ -42,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0070-climbing-stairs) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
