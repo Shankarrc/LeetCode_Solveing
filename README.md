@@ -86,14 +86,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0199-binary-tree-right-side-view) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0199-binary-tree-right-side-view) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0199-binary-tree-right-side-view) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Sorting
 |  |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1137-n-th-tribonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
