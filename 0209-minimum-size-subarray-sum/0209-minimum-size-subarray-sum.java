@@ -1,31 +1,18 @@
 class Solution {
-    public boolean check(int mid,int tar,int nums[] ){
-         int sum=0;
-         for(int i=0;i<mid;i++){
-            sum+=nums[i];
-         }
-         if(sum>=tar) return true;
-         for(int i=mid;i<nums.length;i++){
-            sum+=nums[i]-nums[i-mid];
-            if(sum>=tar) return true;
-         }
-         return false;
-    }
     public int minSubArrayLen(int target, int[] nums) {
-        int low=1;
-        int high=nums.length;
-        int ans=0;
-        while(low<=high){
-            int mid=(high-low)/2+low;
-            if(check(mid,target,nums)){
-                ans=mid;
-                high=mid-1;
-            }
-            else{
-                low=mid+1;
-
+        
+        int i=0;
+        
+        int sum=0;
+        int ans=Integer.MAX_VALUE;
+        for(int j=0;j<nums.length;j++){
+            sum+=nums[j];
+            while(sum>=target){
+            ans=Math.min(ans,j-i+1);
+            sum-=nums[i];
+            i++;
             }
         }
-        return ans;
+        return ans==Integer.MAX_VALUE?0:ans;
     }
 }
