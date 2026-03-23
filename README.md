@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0002-add-two-numbers) |
+| [0092-reverse-linked-list-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0141-linked-list-cycle) |
 | [0445-add-two-numbers-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0445-add-two-numbers-ii) |
 ## Memoization
