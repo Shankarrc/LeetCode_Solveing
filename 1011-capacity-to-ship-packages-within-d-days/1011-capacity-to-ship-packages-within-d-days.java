@@ -1,38 +1,35 @@
 class Solution {
-    public boolean check(int arr[],int days,int cap){
-
-        int cnt=1;
+    public boolean check(int maxx,int w[],int days){
+        int d=1;
         int sum=0;
-        for(int a:arr ){
-
-            if(a+sum>cap){
-                cnt++;
+        for(int a:w){
+            if(a+sum>maxx){
                 sum=0;
+                d+=1;
             }
             sum+=a;
         }
-     return cnt<=days?true:false;
+        return d<=days;
     }
-    public int shipWithinDays(int[] weights, int days) {
-        
+    public int shipWithinDays(int[] w, int days) {
         int low=0;
         int high=0;
-        for(int i=0;i<weights.length;i++){
-            high+=weights[i];
-            low=Math.max(low,weights[i]);
+        for(int i=0;i<w.length;i++){
+            if(low<w[i])low=w[i];
+            high+=w[i];
         }
-        int ans=high;
+        int ans=0;
         while(low<=high){
-
             int mid=(low+high)/2;
-
-            if(check(weights,days,mid)){
+            if(check(mid,w,days)){
                 ans=mid;
                 high=mid-1;
+
             }
-            else{
-                low=mid+1;
-            }
+           else{
+             low=mid+1;
+           }
+
         }
         return ans;
     }
