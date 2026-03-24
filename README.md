@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0209-minimum-size-subarray-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0401-binary-watch) |
