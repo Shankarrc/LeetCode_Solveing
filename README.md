@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1901-find-a-peak-element-ii) |
 ## Linked List
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0513-find-bottom-left-tree-value) |
+| [0994-rotting-oranges](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
