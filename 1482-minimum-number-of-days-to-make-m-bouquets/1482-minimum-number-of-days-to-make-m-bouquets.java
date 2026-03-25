@@ -1,44 +1,50 @@
 class Solution {
-    public boolean check(int arr[], int m, int k, long mid) {
-        long cnt = 0;
-        long bob = 0;
+    public boolean check(int maxx,int arr[],int m,int k){
 
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] <= mid) {
-                cnt++;
-                if (cnt == k) {
-                    bob++;
-                    cnt = 0;
+         
+        int sum=0;
+    int b=0;
+
+        for(int a:arr){
+
+
+            if(a<=maxx){
+                sum++;
+
+                if(sum==k){
+                    b++;
+                    sum=0;
                 }
-            } else {
-                cnt = 0;
             }
-        }
+            else{
+                sum=0;
+            }
 
-        return bob >= m;
+        }
+        return b>=m;
     }
-
-    public int minDays(int[] bloomDay, int m, int k) {
-        if (bloomDay.length <(long) m * k) return -1;
-
-        long low = Integer.MAX_VALUE;
-        long high = Integer.MIN_VALUE;
-
-        for (int a : bloomDay) {
-            low = Math.min(low, a);
-            high = Math.max(high, a);
+    public int minDays(int[] arr, int m, int k) {
+        if((long)m*k>arr.length) return -1;
+        int low=Integer.MAX_VALUE;;
+        int high=Integer.MIN_VALUE;
+        for(int a:arr){
+            high=Math.max(high,a);
+            low=Math.min(low,a);
         }
 
-        while (low <= high) {
-            long mid = low+(high-low) / 2;
+        
+        while(low<=high){
 
-            if (check(bloomDay, m, k, mid)) {
-                high = mid - 1;
-            } else {
-                low = mid + 1;
+            int mid=low+(high-low)/2;
+
+            if(check(mid,arr,m,k)){
+              
+                high=mid-1;
+            }
+            else{
+                low=mid+1;
             }
         }
-
-        return (int) low;
+        return low;
     }
 }
