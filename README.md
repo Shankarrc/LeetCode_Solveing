@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0930-binary-subarrays-with-sum) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3719-longest-balanced-subarray-i) |
 ## Stack
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0696-count-binary-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Counting
 |  |
 | ------- |
