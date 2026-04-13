@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1901-find-a-peak-element-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3719-longest-balanced-subarray-i) |
