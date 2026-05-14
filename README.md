@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0078-subsets) |
+| [0152-maximum-product-subarray](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0496-next-greater-element-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1137-n-th-tribonacci-number) |
 ## Game Theory
