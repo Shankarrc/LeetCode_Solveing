@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0078-subsets) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0209-minimum-size-subarray-sum) |
