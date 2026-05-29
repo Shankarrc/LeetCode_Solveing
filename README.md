@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2784-check-if-array-is-good) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1137-n-th-tribonacci-number) |
 | [2485-find-the-pivot-integer](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2485-find-the-pivot-integer) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
