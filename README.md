@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1345-jump-game-iv](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0513-find-bottom-left-tree-value) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0513-find-bottom-left-tree-value) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1306-jump-game-iii) |
 ## Binary Tree
@@ -170,10 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0513-find-bottom-left-tree-value) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Sorting
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2784-check-if-array-is-good](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -210,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0513-find-bottom-left-tree-value) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1345-jump-game-iv) |
