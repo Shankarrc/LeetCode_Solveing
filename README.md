@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1137-n-th-tribonacci-number) |
 | [2485-find-the-pivot-integer](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2485-find-the-pivot-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1137-n-th-tribonacci-number) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3546-equal-sum-grid-partition-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
