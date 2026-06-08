@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1901-find-a-peak-element-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1345-jump-game-iv](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1345-jump-game-iv) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2784-check-if-array-is-good) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0513-find-bottom-left-tree-value) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0513-find-bottom-left-tree-value) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Sorting
 |  |
 | ------- |
