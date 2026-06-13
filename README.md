@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3546-equal-sum-grid-partition-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3719-longest-balanced-subarray-i) |
+| [3838-weighted-word-mapping](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0067-add-binary) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
 | ------- |
