@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0141-linked-list-cycle) |
 | [0696-count-binary-substrings](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0696-count-binary-substrings) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2540-minimum-common-value) |
 ## Tree
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0141-linked-list-cycle) |
 | [0445-add-two-numbers-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0445-add-two-numbers-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Memoization
 |  |
 | ------- |
