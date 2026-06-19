@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1732-find-the-highest-altitude](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1901-find-a-peak-element-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0930-binary-subarrays-with-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2574-left-and-right-sum-differences) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3546-equal-sum-grid-partition-i) |
