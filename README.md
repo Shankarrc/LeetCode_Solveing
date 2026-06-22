@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1901-find-a-peak-element-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3689-maximum-total-subarray-value-i) |
 ## Union-Find
@@ -301,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0684-redundant-connection) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
