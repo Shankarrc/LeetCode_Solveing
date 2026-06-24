@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0078-subsets) |
+| [0139-word-break](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0209-minimum-size-subarray-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0930-binary-subarrays-with-sum) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0877-stone-game) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0139-word-break) |
 | [0696-count-binary-substrings](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0696-count-binary-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1189-maximum-number-of-balloons) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1137-n-th-tribonacci-number) |
 ## Breadth-First Search
 |  |
@@ -311,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1833-maximum-ice-cream-bars) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
