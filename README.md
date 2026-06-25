@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0078-subsets) |
+| [0134-gas-station](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0134-gas-station) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3689-maximum-total-subarray-value-i) |
