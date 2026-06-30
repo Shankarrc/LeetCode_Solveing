@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1137-n-th-tribonacci-number) |
+| [2063-vowels-of-all-substrings](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2063-vowels-of-all-substrings) |
 | [2485-find-the-pivot-integer](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2485-find-the-pivot-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1137-n-th-tribonacci-number) |
+| [2063-vowels-of-all-substrings](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2063-vowels-of-all-substrings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Game Theory
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2063-vowels-of-all-substrings](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2063-vowels-of-all-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -357,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0347-top-k-frequent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
