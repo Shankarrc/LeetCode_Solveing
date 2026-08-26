@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2418-sort-the-people](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2418-sort-the-people](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2784-check-if-array-is-good) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2063-vowels-of-all-substrings) |
+| [2418-sort-the-people](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2418-sort-the-people) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2418-sort-the-people](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
