@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0525-contiguous-array) |
+| [0611-valid-triangle-number](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0611-valid-triangle-number) |
 | [0739-daily-temperatures](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0930-binary-subarrays-with-sum) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0141-linked-list-cycle) |
+| [0611-valid-triangle-number](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0696-count-binary-substrings) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0347-top-k-frequent-elements) |
+| [0611-valid-triangle-number](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0611-valid-triangle-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-two-city-scheduling](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1029-two-city-scheduling) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1329-sort-the-matrix-diagonally) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0240-search-a-2d-matrix-ii) |
+| [0611-valid-triangle-number](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0611-valid-triangle-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1901-find-a-peak-element-ii) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0134-gas-station) |
+| [0611-valid-triangle-number](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0611-valid-triangle-number) |
 | [1029-two-city-scheduling](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1029-two-city-scheduling) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1833-maximum-ice-cream-bars) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2027-minimum-moves-to-convert-string) |
