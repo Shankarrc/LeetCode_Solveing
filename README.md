@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2027-minimum-moves-to-convert-string) |
 | [2063-vowels-of-all-substrings](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2063-vowels-of-all-substrings) |
 | [2418-sort-the-people](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2418-sort-the-people) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0134-gas-station) |
 | [1029-two-city-scheduling](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1029-two-city-scheduling) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1833-maximum-ice-cream-bars) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2027-minimum-moves-to-convert-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3689-maximum-total-subarray-value-i) |
