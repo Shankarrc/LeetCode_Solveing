@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3546-equal-sum-grid-partition-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3719-longest-balanced-subarray-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3483-unique-3-digit-even-numbers) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0025-reverse-nodes-in-k-group) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
