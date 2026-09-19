@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0525-contiguous-array) |
 | [0611-valid-triangle-number](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0611-valid-triangle-number) |
 | [0739-daily-temperatures](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0994-rotting-oranges) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1329-sort-the-matrix-diagonally) |
