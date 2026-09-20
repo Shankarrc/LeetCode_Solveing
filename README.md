@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3867-sum-of-gcd-of-formed-pairs) |
