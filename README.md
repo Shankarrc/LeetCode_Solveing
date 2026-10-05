@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0901-online-stock-span) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0696-count-binary-substrings) |
+| [0856-score-of-parentheses](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
