@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1029-two-city-scheduling) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1043-partition-array-for-maximum-sum) |
+| [1254-number-of-closed-islands](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1306-jump-game-iii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1329-sort-the-matrix-diagonally) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1329-sort-the-matrix-diagonally) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1345-jump-game-iv) |
 ## Binary Search
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0684-redundant-connection) |
+| [1254-number-of-closed-islands](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
