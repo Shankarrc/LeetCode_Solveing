@@ -1,0 +1,32 @@
+class Solution {
+    public long dfs(int [][]grid,int i,int j){
+
+        if(i<0 || j<0 || j>=grid[0].length || i>=grid.length || grid[i][j]==0){
+            return 0;
+        }
+        long sum=grid[i][j];
+        grid[i][j]=0;
+        sum+=dfs(grid,i+1,j);
+        sum+=dfs(grid,i-1,j);
+        sum+=dfs(grid,i,j+1);
+        sum+=dfs(grid,i,j-1);
+        return sum;
+    }
+    public int countIslands(int[][] grid, int k) {
+        int row=grid.length;
+        int col=grid[0].length;
+        int cnt=0;
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
+
+                if(grid[i][j] !=0){
+
+                    long tot=dfs(grid,i,j);
+
+                    if(tot%k==0)cnt++;
+                }
+            }
+        }
+        return cnt;
+    }
+}
