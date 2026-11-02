@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0525-contiguous-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0445-add-two-numbers-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0836-rectangle-overlap) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0611-valid-triangle-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-two-city-scheduling](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1029-two-city-scheduling) |
