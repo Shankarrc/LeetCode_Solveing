@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1882-process-tasks-using-servers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0347-top-k-frequent-elements) |
+| [1882-process-tasks-using-servers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1882-process-tasks-using-servers) |
 ## Bucket Sort
 |  |
 | ------- |
