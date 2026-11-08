@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1043-partition-array-for-maximum-sum) |
 | [1254-number-of-closed-islands](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1306-jump-game-iii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1331-rank-transform-of-an-array) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1267-count-servers-that-communicate) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1329-sort-the-matrix-diagonally) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1901-find-a-peak-element-ii) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1345-jump-game-iv) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -519,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
