@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3719-longest-balanced-subarray-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1510-stone-game-iv) |
 | [2063-vowels-of-all-substrings](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2063-vowels-of-all-substrings) |
+| [3693-climbing-stairs-ii](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Game Theory
 |  |
