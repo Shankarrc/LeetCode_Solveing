@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2027-minimum-moves-to-convert-string) |
 | [2063-vowels-of-all-substrings](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2063-vowels-of-all-substrings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2418-sort-the-people) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2352-equal-row-and-column-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/3612-process-string-with-special-operations-i) |
