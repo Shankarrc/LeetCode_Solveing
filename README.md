@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2027-minimum-moves-to-convert-string) |
 | [2063-vowels-of-all-substrings](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2063-vowels-of-all-substrings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Shankarrc/LeetCode_Solveing/tree/master/2418-sort-the-people) |
